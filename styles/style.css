@@ -48,10 +48,10 @@
 		border-width: 0 0 1px;
 	}
     .navbar-collapse.collapse {
-        display: none!important;
+        display: none !important;
     }
     .navbar-nav {
-        float: none!important;
+        float: none !important;
 		margin-top: 7.5px;
 	}
 	.navbar-nav>li {
@@ -64,5 +64,8 @@
     .collapse.in{
   		display:block !important;
 	}
+    .carousel {
+        height: 50vh;
+    }
 }
 
